@@ -11,4 +11,7 @@ Hi.
 - 256 MB of RAM
 - 1.5 GB of disk space
 
+> !Important!
+- Use VirtualBox. VMWare fucked up
+
 Have fun!
