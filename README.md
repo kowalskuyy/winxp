@@ -4,6 +4,12 @@ I got bored from not too many work from office but from life. So I decided to se
 I am currently working as Frontend Developer in Jurno.id, stuff I will share here will fulfill the needs, or atleast my needs working from Windows XP Professional x64.
 Send me an email in mhabibillah17@gmail.com if you got any questions, don't hesitate.
 
+> Hardware Environment
+- Host OS: Windows 11 Home Single Language 64-bit (10.0, Build 22631)
+- Processor: 12th Gen Intel(R) Core(TM) i5-12450H (12CPUs), ~2.0GHz
+- Memory: 16384MB RAM
+- Graphic Card: NVIDIA GeForce RTX 3050 4GB
+
 > Main Informations
 - Download Link: https://archive.org/details/windowsxpprox64english
 - Alternative: https://drive.google.com/file/d/1iuhQFTVzUTOsbKxPQpvmC81wrmhCsnky/view
